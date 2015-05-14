@@ -1,10 +1,10 @@
 php-rs232 0.1.0-alpha
 =====================
 
-:warning 
-This library is still at alpha stage.
+:warning:
+**This library is still at alpha stage.
 Not every features have been tested.
-Use it at your own risk.
+Use it at your own risk.**
 
 This library allows to communicate with devices through RS232 protocol.
 
@@ -43,8 +43,10 @@ All contributions are welcomed. If you wish to participate, follow these steps:
 3. Commit your changes and push them to the GitHub fork
 4. Send a pull request
 
-:warning Any pull request MUST be accompanied with tests.
+:warning: Any pull request MUST be accompanied with tests.
 
 **Please follow PSR-2 coding standards.**
+
+# Credits
 
 Heavily inspired from [Xowap/PHP-SERIAL](https://github.com/Xowap/PHP-Serial)
