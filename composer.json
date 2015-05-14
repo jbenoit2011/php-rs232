@@ -3,7 +3,17 @@
     "description": "Library to connect to RS232 devices",
     "type": "library",
     "license": "LGPL-3.0",
-    "keywords": "php serial rs232 rs-232 eia232 eia-232 tia232 tia-232 library",
+    "keywords": [
+        "php",
+        "serial",
+        "rs232",
+        "rs-232",
+        "eia232",
+        "eia-232",
+        "tia232",
+        "tia-232",
+        "library"
+        ],
     "authors": [
         {
             "name": "Julien BENOIT",
